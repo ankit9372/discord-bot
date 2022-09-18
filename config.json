@@ -1,0 +1,15 @@
+{
+  "token": "MTAyMDk0MTEyNzIxMTI5ODkxNg.GV51ym.dAIYOl4B9X_sW2o6VTWLyE3umZye0xtdORz4GA",
+  "prefix": "!",
+  "serverAddress": "J4RVI5.aternos.me",
+  "serverPort": "19522",
+  "serverName": "Minecraft",
+  "updateInterval": "1min",
+  "showPlayerSample": true,
+  "debugMode": true,
+  "debugLvl": 1,
+  "pinUpdate": true,
+  "pinId": "pin id kalen<-terserah",
+  "pinGuildId": "1020947926392000532",
+  "pinChanId": "1020947926392000535"
+}
